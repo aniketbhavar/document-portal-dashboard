@@ -10,8 +10,8 @@ def parse_requirements(filename):
         ]
 
 setup(
-    name="document_portal",
-    author="Sunny Savita",
+    name="document_poratal-dashboard",
+    author="Aniket Bhavar",
     version="0.1",
     description="An intelligent document analysis and comparison system powered by LLMs",
     long_description=Path("README.md").read_text(encoding="utf-8"),
